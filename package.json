@@ -1,0 +1,15 @@
+{
+  "name": "distributed-node-deploy",
+  "version": "1.0.0",
+  "description": "Distributed Node.js Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Fake Tests\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "3.2"
+  }
+}
