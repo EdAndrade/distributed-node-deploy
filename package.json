@@ -4,7 +4,7 @@
   "description": "Distributed Node.js Sample Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Fake Tests\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
